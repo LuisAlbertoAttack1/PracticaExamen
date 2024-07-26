@@ -1,0 +1,36 @@
+.TipoDeLetraGEneral{
+    font-family: Arial;
+    background-color: #000000;
+}
+.EfectoDeCard{
+    background: linear-gradient(135deg rgba(255, 255, 255, 0.1) rgba(255, 255, 255, 0));
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-radius: 20px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+    
+}
+
+.GrosorDeLetra{
+    font-size: 3rem;
+    font-family: Arial Black;
+}
+.GrosorDeLetra1{
+    font-size: 2.4rem;
+    font-family: Arial Black;
+}
+.GrosorDeLetra3{
+    font-size: 1rem;
+    font-family: Arial Black;
+}
+.GrosorDeLetra2{
+    font-size: 5rem;
+    font-family: Arial Black;
+}
+
+
+.TamDeImgDeFooter{
+    width: 7rem;
+    height: 7rem;
+}
